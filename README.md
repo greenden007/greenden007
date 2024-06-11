@@ -2,7 +2,7 @@
 
 ## 🔥 Featured Projects
 
-1. 2338 GEAR IT FORWARD 'BOTS
+1. 2338 GEAR IT FORWARD ROBOTS
    - Description: Lead programmer for FRC 2338's '22-'23. Built well-documented Swerve Drive and Vision infrastructure.
    - Technologies Used: Java for robot base and Python for vision processing
    - [Robot Base](https://github.com/Team2338/FRC2023)
