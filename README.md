@@ -1,6 +1,6 @@
 # Hello, I'm Rohan Cherukuri 👋
 
-## 🔥 Featured Projects
+##  Projects
 
 1. 2338 GEAR IT FORWARD ROBOTS
    - Description: Lead programmer for FRC 2338's '22-'23. Built well-documented Swerve Drive and Vision infrastructure.
@@ -9,13 +9,12 @@
    - [Vision Processing](https://github.com/greenden007/VisionBaseFRC)\
 ![Gear It Forward 2023 Robot](https://i.imgur.com/5VG4UFuh.jpg)
 
-## 🌱 I'm Currently Learning
+## I'm Currently Learning
 
 - I am a Comp Sci Student at UMN-TC
 
-## 🧑🏿‍💻 Let's Collaborate
+## Let's Collaborate
 
-- If you're interested in collaborating, feel free to reach out!
 - My main current project is a collaborative scouting app for the FIRST Robotics Competition
-- You can contact me via [email](mailto:rcherukuri10@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rohan-cherukuri-719963215).
+- You can contact me via [email](mailto:rcherukuri10@gmail.com).
 
