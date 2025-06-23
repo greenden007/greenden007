@@ -6,7 +6,7 @@
    - Lead programmer for FRC 2338's '22-'23. Primarily built Swerve Drive and Vision infrastructure.
    - Technologies: Java for robot base and Python for vision processing
    - [Robot Base](https://github.com/Team2338/FRC2023)
-   - [Vision Processing](https://github.com/greenden007/VisionBaseFRC)\
+   - [Vision Processing](https://github.com/greenden007/VisionBaseFRC)
 
 2. League of Legends Pro-Play Draft AI
    - Developed an agentic AI model capable of choosing an optimal next pick in LoL draft
