@@ -1,4 +1,3 @@
-# Hello, I'm Rohan Cherukuri
 
 ##  Projects
 
