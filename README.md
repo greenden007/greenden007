@@ -1,20 +1,18 @@
-# Hello, I'm Rohan Cherukuri 👋
+# Hello, I'm Rohan Cherukuri
 
 ##  Projects
 
 1. 2338 GEAR IT FORWARD ROBOTS
-   - Description: Lead programmer for FRC 2338's '22-'23. Built well-documented Swerve Drive and Vision infrastructure.
-   - Technologies Used: Java for robot base and Python for vision processing
+   - Lead programmer for FRC 2338's '22-'23. Primarily built Swerve Drive and Vision infrastructure.
+   - Technologies: Java for robot base and Python for vision processing
    - [Robot Base](https://github.com/Team2338/FRC2023)
    - [Vision Processing](https://github.com/greenden007/VisionBaseFRC)\
-![Gear It Forward 2023 Robot](https://i.imgur.com/5VG4UFuh.jpg)
 
-## I'm Currently Learning
+2. League of Legends Pro-Play Draft AI
+   - Developed an agentic AI model capable of choosing an optimal next pick in LoL draft
+   - Uses an RNN to dynamically choose the best next champion in sequence based on meta-strength and player comfort
+   - Designed primarily for Pro-play with built-in history of played games
+   - [code](https://github.com/greenden007/LeagueDraftAnalysis)
 
-- I am a Comp Sci Student at UMN-TC
-
-## Let's Collaborate
-
-- My main current project is a collaborative scouting app for the FIRST Robotics Competition
-- You can contact me via [email](mailto:rcherukuri10@gmail.com).
-
+## Tech Stack
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)![image](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
