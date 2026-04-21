@@ -59,11 +59,6 @@ A two-stage NLP pipeline that **classifies and rewrites dialogue and behavior** 
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
----
-
-## Get in Touch
-
-Open to full-time roles in ML Engineering, AI Research, or Software Engineering
 
 <!-- Optional: add links below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE) -->
