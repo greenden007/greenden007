@@ -1,8 +1,4 @@
-I'm a CS student graduating soon, interested in building ML systems end-to-end — from GPU-level inference optimization to full-stack AI-powered applications. Currently seeking roles in ML engineering, AI research, or full-stack development.
-
-> 🔍 Particularly interested in **efficient inference & quantization** — making models faster and leaner without sacrificing capability.
-
----
+# Hello! I'm Rohan Cherukuri.
 
 ## Some Recent Completed Work
 
