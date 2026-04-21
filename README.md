@@ -7,7 +7,6 @@ An agentic AI system that assists with League of Legends champion drafting. Uses
 
 - LLM-powered explainability via retrieval-augmented generation
 - Combines game state context with strategic knowledge retrieval
-- Built with Python, LangChain, and a vector store backend
 
 ### [What-If](https://github.com/greenden007/what-if)
 A two-stage NLP pipeline that **classifies and rewrites dialogue and behavior** in movie/TV scripts to modify how characters are portrayed.
