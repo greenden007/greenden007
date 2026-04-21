@@ -47,7 +47,6 @@ A two-stage NLP pipeline that **classifies and rewrites dialogue and behavior** 
 **Databases**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud & Infrastructure**
 
