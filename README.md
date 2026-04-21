@@ -1,4 +1,4 @@
-# Hello! I'm Rohan Cherukuri.
+# Hello, I'm Rohan Cherukuri
 
 ## Some Recent Completed Work
 
